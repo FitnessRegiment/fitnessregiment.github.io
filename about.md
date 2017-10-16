@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
-permalink: "/about/"
+title: Blog
+permalink: "/blog/"
 ---
 
-Some information about you!
 
-### More Information
+<span style="font-size: 1rem;">{% for post in site.posts %}</span>
 
-A place to include any other types of information that you'd like to include about yourself.
+{{ post.title }}
 
-### Contact me
+{{ post.excerpt }}
 
-[email@domain.com](mailto:email@domain.com)
+Read More
+
+{% endfor %}
