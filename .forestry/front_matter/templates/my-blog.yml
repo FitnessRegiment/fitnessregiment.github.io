@@ -1,5 +1,6 @@
 ---
 pages:
+- my-projects.md
 - cv.md
 hide_body: false
 fields:
