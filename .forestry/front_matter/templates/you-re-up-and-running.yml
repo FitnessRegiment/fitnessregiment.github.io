@@ -1,4 +1,6 @@
 ---
+pages:
+- _posts/essential-softwares-for-windows.md
 hide_body: false
 fields:
 - name: layout
