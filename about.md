@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Blog
 permalink: "/blog/"
+title: My Blog
 ---
-
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
