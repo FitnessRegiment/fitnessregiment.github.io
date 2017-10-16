@@ -4,13 +4,17 @@ title: Blog
 permalink: "/blog/"
 ---
 
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
 
-Some information about you!
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-More Information
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
 
-A place to include any other types of information that you'd like to include about yourself.
-
-Contact me
-
-email@domain.com
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
