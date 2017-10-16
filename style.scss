@@ -272,6 +272,12 @@ nav {
 }
 
 
+* {
+    margin: 0;
+}
+html, body {
+    height: 100%;
+}
 .wrapper {
     min-height: 100%;
     height: auto !important; /* This line and the next line are not necessary unless you need IE6 support */
