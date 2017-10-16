@@ -1,4 +1,4 @@
 ---
 layout: default
 ---
-<div class="posts"><p>Some information about you!</p><p>More Information</p><p>A place to include any other types of information that you'd like to include about yourself.</p><p>Contact me</p><p>email@domain.com</p></div>
+<div class="posts"><p><span style="font-size: 1rem;">{% for post in site.posts %}</span><br></p><p>{{ post.title }}</p><p>{{ post.excerpt }}</p><p>Read More</p><p>{% endfor %}</p></div>
