@@ -5,12 +5,12 @@ permalink: "/blog/"
 ---
 
 
-<span style="font-size: 1rem;">{% for post in site.posts %}</span>
+Some information about you!
 
-{{ post.title }}
+More Information
 
-{{ post.excerpt }}
+A place to include any other types of information that you'd like to include about yourself.
 
-Read More
+Contact me
 
-{% endfor %}
+email@domain.com
