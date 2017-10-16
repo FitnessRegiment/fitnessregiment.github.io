@@ -28,3 +28,12 @@ Security:
 You should also install a [VPN](https://en.wikipedia.org/wiki/Virtual_private_network) (virtual private network) that hides your traffic to protect your identity and your data.
 
 Another important type of security is protecting yourself from a data failure. This could be from a broken hard-drive or a stolen laptop. The simple ways of doing this is paying for [google drive](https://www.google.com/drive/), or [dropbox](https://www.dropbox.com/) and setting up a good backup plan. I will be writing a separate blog post on data handling and data security soon with more information.
+
+Communication:
+
+* [Skype](https://www.skype.com) (A lot of people complain that skype is not secure and just generally terrible, however no one can deny that it is still the de facto standard for communication, and thus very useful.
+
+For gamers, Teamspeak, Discord and Mumble are being used heavily currently, and thus are recommended to have on your system.
+
+I do not recommend using windows 10 outlook, facebook or skype and much prefer the web versions.
+
