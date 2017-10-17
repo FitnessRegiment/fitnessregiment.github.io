@@ -35,5 +35,4 @@ Communication:
 
 For gamers, Teamspeak, Discord and Mumble are being used heavily currently, and thus are recommended to have on your system.
 
-I do not recommend using windows 10 outlook, facebook or skype and much prefer the web versions.
-
+I do not recommend using windows 10 outlook, facebook or skype and much prefer the web versions. Test
