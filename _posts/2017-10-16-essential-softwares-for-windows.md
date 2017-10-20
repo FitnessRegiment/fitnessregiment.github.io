@@ -2,6 +2,7 @@
 date: 2017-10-16 00:00:00 +0000
 layout: post
 title: Essential Softwares for Windows
+categories: Technology
 ---
 
 
